@@ -1,0 +1,23 @@
+body {
+  background-color: aquamarine;
+}
+.container {
+  text-align: center;
+  background-color: white;
+  border-radius: 25px;
+  width: 1000px;
+  margin: 70px auto;
+  display: flex;
+  justify-content: space-around;
+  padding: 50px;
+  align-items: center;
+}
+.size {
+  font-size: 12px;
+  margin: 20px;
+  color: rgba(127, 118, 118, 0.652);
+  font-family: serif;
+}
+b {
+  color: black;
+}
